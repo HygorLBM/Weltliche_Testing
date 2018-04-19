@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "787714439599",
+    "firebase_url": "https://weltliche-17c33.firebaseio.com",
+    "project_id": "weltliche-17c33",
+    "storage_bucket": "weltliche-17c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787714439599:android:c1d0fc65f9339927",
+        "android_client_info": {
+          "package_name": "com.example.hygor.weltliche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787714439599-78g1fjqs1i6j8f2pnc69ob2pi4p9ltth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnjJe7J2JPSYGMW5zOO5aE7I_NIZtrRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
